@@ -22,7 +22,8 @@ The title room name must be the exact same name as your meeting room mailbox tha
 <img width="480" alt="image" src="https://github.com/SGA-JS/Book-a-Room-with-PowerApp/assets/73696641/1c3d799d-1508-4f85-a296-ba85dce07b12">
 
 ### 2.2. Add a new "text label" to the "RoomGallery"
-> "Size-" & First(Filter(RoomList, Title = ThisItem.Name)).Capacity
+> add this to read the data from RoomList SharePoint
+>  - "Size-" & First(Filter(RoomList, Title = ThisItem.Name)).Capacity
 ![image](https://github.com/SGA-JS/Book-a-Room-with-PowerApp/assets/73696641/12b69627-62e4-4bf4-916a-604b37d06cc7)
 
 ### 3. Popup box for booking confirmation
