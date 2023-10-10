@@ -14,7 +14,7 @@ this will filter your room list based on your country location.
 <img width="628" alt="image" src="https://github.com/SGA-JS/Book-a-Room-with-PowerApp/assets/73696641/c118c2b9-47a3-4823-8e14-2ebf2465e22a">
 
 ### 2. to show the capacity of a room
--upon my reasearch there is no funcation available in powerapp to display room capacity. this is a workaround solution with SharePoint.
+-upon my reasearch there is no function available in powerapp to display room capacity. this is a workaround solution with SharePoint.
 ![image](https://github.com/SGA-JS/Book-a-Room-with-PowerApp/assets/73696641/866abe9b-4000-4418-bb0f-c3a485c89f9b)
 
 ### 2.1. Create a SharePoint name "RoomList" as follows
